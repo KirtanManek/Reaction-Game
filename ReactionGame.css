@@ -1,0 +1,27 @@
+*{
+	box-sizing: border-box;
+}
+
+body{
+	font-family: sans-serif;
+}
+
+
+
+#box{
+	width: 200px;
+	height: 200px;
+	background-color: blue;
+	display: none;
+	position: relative;
+}
+
+#MainBox{
+	width: 100%;
+	height: 85vh;
+}
+
+#button{
+	border-radius: 15px;
+	background-color: yellowgreen;
+}
