@@ -13,7 +13,7 @@ var clickedTime; var createdTime; var reactionTime;
 
 function makeBox() {
 	var time = Math.random();
-	time = time * 3000;
+	time = time * 2000;
 
 	var c = setTimeout(function () {
 
